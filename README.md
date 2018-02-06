@@ -41,10 +41,10 @@ o (operator) = Here populate with the acronym of the operator (optional, default
 
 ## Available Operators
 
-l = like <br>
-e = equals <br>
-d = different <br>
-m = major <br>
-me = major or equals <br>
-mi = minor <br>
-mie = minor or equals <br>
+<strong>l</strong> = like <br>
+<strong>e</strong> = equals <br>
+<strong>d</strong> = different <br>
+<strong>m</strong> = major <br>
+<strong>me</strong> = major or equals <br>
+<strong>mi</strong> = minor <br>
+<strong>mie</strong> = minor or equals <br>
